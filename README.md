@@ -13,7 +13,7 @@ A ideia é criar um aplicativo de celular para uma loja de material de construç
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/andreasjose/AndroidObra/blob/main/Projetos/doc/Banco.jpg)
 
 # Tecnologias utilizadas
 ## Back end
