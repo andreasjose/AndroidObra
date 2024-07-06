@@ -1,7 +1,7 @@
 # Projeto Calcula Custo de Obra em Kotlin
 
 # Sobre o projeto
-Projeto de conclusão de curso 
+Projeto de conclusão de curso<br>
 A ideia é criar um aplicativo de celular para uma loja de material de construção, onde o usuario podera escolher os materiais de construção e ao final ter uma ideia de quanto precisaria gastar para fazer uma obra.
 
 ## Mini Mundo
