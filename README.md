@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 Projeto de conclusão de curso<br>
-A ideia é criar um aplicativo de celular para uma loja de material de construção, onde o usuario podera escolher os materiais de construção e ao final ter uma ideia de quanto precisaria gastar para fazer uma obra.
+A ideia é criar um aplicativo de celular para um restaurante, onde todos os funcionarios e clientes utilizam o sistema para se comunicar e fazer pedidos.
 
 ## Mini Mundo
 Mata Fome restaurante local da região trabalha no ramo LaCarte e está modernizando o seu negocio e planeja utilizar tablets e celulares para isso, cada funcionario tem um celular que utiliza pra acessar o sistema e cada mesa possui um tablet onde o <b>cliente</b> <b>abre uma conta</b>, <b>faz seus pedidos</b> e <b>Inicia o processo de encerrar conta</b>. Cada funcionario tem uma função dentro da empresa, O <b>gerente</b> Fica responsavel por fazer a <b>compra dos insumos</b>, <b>cadastrar</b> ou <b>remover funcionarios</b> e <b>criar receitas</b>, O <b>garçom</b> fica responsavel por <b>entregar os pedidos</b>, <b>atender os clientes</b> e <b>fechar conta</b>, O cozinheiro fica responsavel por <b>pegar um pedido</b>, <b>preparar o pedido</b> e <b>alterar o status para pronto</b>.
