@@ -84,3 +84,7 @@ yarn start
 Andreas José Alves Hermes
 
 https://www.linkedin.com/in/andreas-jos%C3%A9-alves-hermes-3670a5250/
+
+# TCC
+
+https://docs.google.com/document/d/1kurHOgbff1QuEbBimPpLcoVG5Vbb-WEVqHX2LOOQ2lU/edit?usp=sharing
